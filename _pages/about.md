@@ -5,10 +5,11 @@ title: About
 author_profile: true
 header:
     overlay_image: /assets/images/thinking-bioinformatics-tools.jpg
-date: August 28, 2019
+date: March 30, 2020
+excerpt: "Coding is the worst of all drugs: those who do it die, those who miss it also die.."
 ---
 
-<figure style="width: 30%" class="align-right">
+<figure style="width: 50%" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/Sequencing_minion.jpg" alt="">
 </figure> 
 
